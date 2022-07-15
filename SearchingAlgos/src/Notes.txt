@@ -1,0 +1,16 @@
+TWO types of search operation:
+1. Sequential search eg:Linear search
+2. Interval search: searching in sorted data structures. eg: Binary search
+
+SEARCHING ALGORITHMS:
+1.Linear Search
+2.Binary Search
+3.Jump Search
+4.Interpolation Search
+5.Exponential Search
+6.Sublist Search (Search a linked list in another list)
+7.Fibonacci Search
+8.The Ubiquitous Binary Search
+9.Recursive program to linearly search an element in a given array
+10.Recursive function to do substring search
+11.Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
